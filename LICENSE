@@ -1,0 +1,17 @@
+AI Resume Screening PoC Source-Available License
+
+Copyright (c) 2026 Kevin. All rights reserved except as expressly stated below.
+
+Permission is granted to view, download, copy, and modify this software for personal evaluation, learning, and non-commercial demo use.
+
+You may not, without prior written permission from Kevin:
+
+1. Use this software for commercial hiring operations, paid consulting, paid SaaS, outsourcing delivery, or any revenue-generating product or service.
+2. Resell, sublicense, rent, lease, host, or offer this software as a managed service.
+3. Publish a competing product or repository that is substantially based on this software.
+4. Remove or obscure copyright, license, attribution, or source-available notices.
+5. Commit API keys, real resumes, private HR data, or other sensitive personal data into this repository.
+
+This software is provided "as is", without warranty of any kind. The author is not liable for any claim, damage, employment decision, compliance issue, data leak, model output, or other liability arising from use of this software.
+
+This license is intentionally not an OSI-approved open-source license. Commercial or production use requires separate written permission.

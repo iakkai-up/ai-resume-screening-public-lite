@@ -1,0 +1,26 @@
+# Local environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit local secrets
+**/.streamlit/secrets.toml
+
+# Local logs and temporary files
+*.log
+tmp/
+.path-backups/
+
+# Local Codex/agent metadata
+.codex/
+.agents/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

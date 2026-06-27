@@ -1,0 +1,11 @@
+AI Resume Screening PoC Public Lite
+
+Copyright (c) 2026 Kevin.
+
+This public repository is a simplified source-available demo. It is not the full private PoC.
+
+The public-lite release excludes private prompt experiments, evaluation reports, full test matrices, private planning notes, and any real candidate data.
+
+AI screening output is only an HR review aid. It must not be used as an automatic hiring, rejection, or ranking decision.
+
+See LICENSE for permitted use and restrictions.
